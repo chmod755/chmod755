@@ -9,4 +9,4 @@ https://noteshub.app/
 
 My gists are at https://gist.github.com/chmod755
 
-Gists managed via https://www.gistoapp.com/
+Gists managed via [https://www.gistoapp.com/](https://gistoapp.netlify.app/)
